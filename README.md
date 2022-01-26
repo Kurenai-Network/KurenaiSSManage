@@ -6,6 +6,8 @@ A Shadowsocks manage with WHMCS
 节点通过Mysql数据库手写命令导入，数据库文件附在了根目录
 
 瞎写的代码，凑合着看吧。
+
+redis部分还不是很完善，有需要自己改
 ## CloudFlare转换规则CloudFlare转换规则
 ### 1. user
 ```
