@@ -1,0 +1,9 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.2",
+        "philipp15b/php-i18n": "^4.0",
+        "rmccue/requests": "^2.0",
+        "symfony/yaml": "^6.0",
+        "ext-pdo": "*"
+    }
+}
