@@ -8,7 +8,7 @@ A Shadowsocks manage with WHMCS
 瞎写的代码，凑合着看吧。
 
 redis部分还不是很完善，有需要自己改
-## CloudFlare转换规则CloudFlare转换规则
+## CloudFlare转换规则
 ### 1. user
 ```
 (http.request.uri.path contains "/api/v1/server/ShadowsocksTidalab/user" and not http.request.uri.path contains "/modules/servers/KurenaiSSManage/")
